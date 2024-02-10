@@ -15,8 +15,8 @@ The chat room contains some rules, which before "logging in" you can see them</p
 
 - Clone or Download the repository
 ```
-  $ git clone https://github.com/devmgdp/chatroom-sockets
-  $ cd chatroom
+  $ git clone https://github.com/devmgdp/chatroom-sockets.git
+  $ cd chatroom-sockets
 ```
 
 - Install Dependencies
